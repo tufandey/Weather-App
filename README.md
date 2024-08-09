@@ -1,1 +1,2 @@
 # Weather-App
+Create a weather app using HTML, CSS, and JavaScript that provides real-time weather updates for any location. Users can search for a city to get current weather conditions, including temperature, humidity, wind speed, and a short description. JavaScript will be used to fetch data from a weather API and dynamically display it on the page, while CSS ensures the app is visually appealing with responsive design elements. The app will also feature icons and animations to enhance the user experience, making it both functional and engaging.
